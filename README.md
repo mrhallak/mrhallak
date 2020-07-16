@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm [Mohamad](https://www.hallak.io) 👋
+I am a software engineer passionate about machine learning, cloud platforms and anything related to technology.
+
+#### How to reach me 📫 
+Drop me a message on [my website](https://hallak.io/contact/)
 
 <!--
 **mrhallak/mrhallak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
