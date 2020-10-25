@@ -1,5 +1,5 @@
 ### Hi there, I'm [Mohamad](https://www.hallak.io) 👋
-I am a software engineer passionate about anything tech.
+I am a data engineer passionate about anything tech.
 
 
 * 👯 I’m looking to collaborate on
