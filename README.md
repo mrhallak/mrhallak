@@ -2,14 +2,16 @@
 I am a software engineer passionate about AI, Data and the cloud.
 
 
-* 👯 I’m looking to collaborate on
+👯 I’m looking to collaborate on
   * Machine learning projects
   * Python libraries
-* 🌱 Currently learning
+
+🌱 Currently learning
   * Go
   * Kubernetes
   * Spark
-* 📫 Drop me a message on [my website](https://hallak.io/contact/)
+
+📫 Drop me a message on [my website](https://hallak.io/contact/)
 
 <!--
 **mrhallak/mrhallak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
