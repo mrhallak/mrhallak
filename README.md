@@ -2,9 +2,10 @@
 I am a software engineer passionate about AI, Data and the cloud.
 
 
-👯 I’m looking to collaborate on
-  * Machine learning projects
-  * Python libraries
+👯 I’m looking to collaborate on projects related to
+  * Machine Learning
+  * Infrastructure as Code
+  * DevOps
 
 🌱 Currently learning
   * Go
