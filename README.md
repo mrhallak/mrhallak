@@ -1,16 +1,7 @@
 ### Hi there, I'm [Mohamad](https://www.hallak.io) 👋
 I am a software engineer passionate about AI, Data and the cloud.
 
-
-👯 I’m looking to collaborate on projects related to
-  * Machine Learning
-  * Infrastructure as Code
-  * DevOps
-
-🌱 Currently learning
-  * Go
-  * Kubernetes
-  * Spark
+🌱 Currently learning: Go, Apache Spark, Kubernetes
 
 📫 Drop me a message on [my website](https://hallak.io/contact/)
 
