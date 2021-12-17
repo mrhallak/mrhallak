@@ -1,9 +1,11 @@
 ### Hi there, I'm [Mohamad](https://www.hallak.io) 👋
 I am a software engineer passionate about AI, Data and the cloud.
 
-🌱 Currently learning: Go, Apache Spark, Kubernetes, Scala
+I speak and write in **English**, **Français**, **العربية**, **Deutsch**
 
-📫 Drop me a message on [my website](https://hallak.io/contact/)
+Find me on:
+- [Web](https://hallak.io/contact/)
+- [Twitter](https://twitter.com/mhmdhallak)
 
 <!--
 **mrhallak/mrhallak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
