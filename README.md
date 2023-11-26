@@ -5,7 +5,7 @@ I speak and write in **English**, **Français**, **العربية**, **Deutsch**
 
 Find me on:
 - [Web](https://hallak.io/contact/)
-- [Twitter](https://twitter.com/mhmdhallak)
+- [X](https://x.com/mhmdhallak)
 
 <!--
 **mrhallak/mrhallak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
