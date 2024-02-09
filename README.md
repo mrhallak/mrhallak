@@ -1,3 +1,6 @@
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mhmdhallak)](https://twitter.com/mhmdhallak)
+[![Github Follow](https://img.shields.io/github/followers/mrhallak?label=Follow&style=social)](https://github.com/mrhallak)
+
 ### Hi there, I'm [Mohamad](https://www.hallak.io) 👋
 I am a software engineer passionate about AI, Data and the cloud.
 
